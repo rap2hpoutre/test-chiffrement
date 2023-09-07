@@ -1,0 +1,16 @@
+{
+  "name": "chiffrement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "libsodium": "^0.7.11",
+    "libsodium-wrappers": "^0.7.11",
+    "libsodium-wrappers-sumo": "^0.7.11"
+  }
+}
